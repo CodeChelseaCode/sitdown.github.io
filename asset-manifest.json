@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.83c14b94.css",
-    "main.js": "/static/js/main.e61dac7a.js",
-    "static/media/logo.svg": "/static/media/logo.d8a826f5c06d9fe22eb59e31d5145854.svg",
-    "static/media/celebration.svg": "/static/media/celebration.09397cd6227290e03fc04268c264720a.svg",
-    "index.html": "/index.html",
-    "main.83c14b94.css.map": "/static/css/main.83c14b94.css.map",
-    "main.e61dac7a.js.map": "/static/js/main.e61dac7a.js.map"
+    "main.css": "/sitdown.github.io/static/css/main.a13da170.css",
+    "main.js": "/sitdown.github.io/static/js/main.549576ca.js",
+    "static/media/logo.svg": "/sitdown.github.io/static/media/logo.d8a826f5c06d9fe22eb59e31d5145854.svg",
+    "static/media/celebration.svg": "/sitdown.github.io/static/media/celebration.09397cd6227290e03fc04268c264720a.svg",
+    "index.html": "/sitdown.github.io/index.html",
+    "main.a13da170.css.map": "/sitdown.github.io/static/css/main.a13da170.css.map",
+    "main.549576ca.js.map": "/sitdown.github.io/static/js/main.549576ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.83c14b94.css",
-    "static/js/main.e61dac7a.js"
+    "static/css/main.a13da170.css",
+    "static/js/main.549576ca.js"
   ]
 }
