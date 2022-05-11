@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/sitdown.github.io/static/css/main.017118ca.css",
-    "main.js": "/sitdown.github.io/static/js/main.3bda6022.js",
-    "static/media/logo.svg": "/sitdown.github.io/static/media/logo.d8a826f5c06d9fe22eb59e31d5145854.svg",
-    "static/media/celebration.svg": "/sitdown.github.io/static/media/celebration.09397cd6227290e03fc04268c264720a.svg",
-    "index.html": "/sitdown.github.io/index.html",
-    "main.017118ca.css.map": "/sitdown.github.io/static/css/main.017118ca.css.map",
-    "main.3bda6022.js.map": "/sitdown.github.io/static/js/main.3bda6022.js.map"
+    "main.css": "/sitdown.github.io/home/static/css/main.b35d5612.css",
+    "main.js": "/sitdown.github.io/home/static/js/main.e98a132c.js",
+    "static/media/logo.svg": "/sitdown.github.io/home/static/media/logo.d8a826f5c06d9fe22eb59e31d5145854.svg",
+    "static/media/celebration.svg": "/sitdown.github.io/home/static/media/celebration.09397cd6227290e03fc04268c264720a.svg",
+    "static/media/notification.svg?s3g3t9": "/sitdown.github.io/home/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/sitdown.github.io/home/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/sitdown.github.io/home/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/sitdown.github.io/home/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "index.html": "/sitdown.github.io/home/index.html",
+    "main.b35d5612.css.map": "/sitdown.github.io/home/static/css/main.b35d5612.css.map",
+    "main.e98a132c.js.map": "/sitdown.github.io/home/static/js/main.e98a132c.js.map"
   },
   "entrypoints": [
-    "static/css/main.017118ca.css",
-    "static/js/main.3bda6022.js"
+    "static/css/main.b35d5612.css",
+    "static/js/main.e98a132c.js"
   ]
 }
